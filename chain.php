@@ -1,6 +1,6 @@
 <?php
 
-//Добавить картинку в цепочку
+//Добавить картинку в цепочку 1
 function action_chain_add( &$args )
 {
 	if (!user_access_check($args))
